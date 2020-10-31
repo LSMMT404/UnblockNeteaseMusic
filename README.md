@@ -65,7 +65,7 @@ optional arguments:
 ```powershell
 checknetisolation loopbackexempt -a -n="1F8B0F94.122165AE053F_j2p0p5q0044a6"
 ```
-
+https://pic.sevesum.com/2019/12/01-6.png
 ### 方法 1. 修改 hosts
 
 向 hosts 文件添加两条规则
